@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="WpfApp1.Views.SummaryView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignHeight="60" d:DesignWidth="1100">
+
+    <Border BorderBrush="#DDD" BorderThickness="1" Padding="10">
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="총 제품 수: " FontWeight="SemiBold"/>
+            <TextBlock Text="{Binding TotalProductCount}" Margin="0,0,16,0"/>
+
+            <TextBlock Text="총 재고 수: " FontWeight="SemiBold"/>
+            <TextBlock Text="{Binding TotalStockCount}" Margin="0,0,16,0"/>
+
+            <TextBlock Text="총 재고 금액: " FontWeight="SemiBold"/>
+            <TextBlock Text="{Binding TotalStockValue}"/>
+        </StackPanel>
+    </Border>
+</UserControl>

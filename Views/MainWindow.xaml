@@ -1,0 +1,58 @@
+﻿<Window x:Class="WpfApp1.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:WpfApp1.ViewModels"
+        xmlns:views="clr-namespace:WpfApp1.Views"
+        mc:Ignorable="d"
+        Title="WpfApp1 - 재고/입출고 미니 ERP"
+        Width="1100" Height="650"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.DataContext>
+        <vm:MainViewModel/>
+    </Window.DataContext>
+
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- 상단 제목 -->
+        <TextBlock Grid.Row="0"
+                   Text="재고 / 입출고 관리 (MVP)"
+                   FontSize="20"
+                   FontWeight="Bold"
+                   Margin="0,0,0,10"/>
+
+        <!-- 본문 -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- 왼쪽 -->
+            <views:ProductListView Grid.Column="0" Margin="0,0,10,0"/>
+          
+         
+
+            <!-- 오른쪽 -->
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <views:StockPanelView Grid.Row="0" Margin="0,0,0,10"/>
+                <views:TransactionListView Grid.Row="1"/>
+            </Grid>
+        </Grid>
+
+        <!-- 하단 요약 -->
+        <views:SummaryView Grid.Row="2" Margin="0,10,0,0"/>
+    </Grid>
+</Window>

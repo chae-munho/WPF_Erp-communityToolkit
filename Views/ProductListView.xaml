@@ -1,0 +1,89 @@
+﻿<UserControl x:Class="WpfApp1.Views.ProductListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignHeight="600" d:DesignWidth="650">
+
+    <GroupBox Header="제품 목록">
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- 제품 목록 그리드 -->
+            <DataGrid Grid.Row="0"
+                      ItemsSource="{Binding Products}"
+                      SelectedItem="{Binding SelectedProduct}"
+                      AutoGenerateColumns="False"
+                      CanUserAddRows="False"
+                      IsReadOnly="True"
+                      SelectionMode="Single"
+                      Margin="0,0,0,10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="60"/>
+                    <DataGridTextColumn Header="제품명" Binding="{Binding Name}" Width="*"/>
+                    <DataGridTextColumn Header="재고" Binding="{Binding Quantity}" Width="80"/>
+                    <DataGridTextColumn Header="단가" Binding="{Binding Price}" Width="100"/>
+                    <DataGridTextColumn Header="총액" Binding="{Binding TotalValue}" Width="120"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- 제품 추가/삭제 -->
+            <Border Grid.Row="1" BorderBrush="#DDD" BorderThickness="1" Padding="10">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <!-- 입력 영역 -->
+                        <ColumnDefinition Width="*"/>
+                        <!-- 버튼 영역 (겹침 방지) -->
+                        <ColumnDefinition Width="220"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- 입력: 3개 필드(제품명/초기수량/단가) -->
+                    <Grid Grid.Column="0" Margin="0,0,12,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2.0*"/>
+                            <ColumnDefinition Width="1.2*"/>
+                            <ColumnDefinition Width="1.2*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                            <TextBlock Text="제품명"/>
+                            <TextBox MinWidth="140"
+                                     Text="{Binding NewProductName, UpdateSourceTrigger=PropertyChanged}"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1" Margin="0,0,10,0">
+                            <TextBlock Text="초기수량(정수)"/>
+                            <TextBox MinWidth="75"
+                                     Text="{Binding NewProductQuantityText, UpdateSourceTrigger=PropertyChanged}"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="2">
+                            <TextBlock Text="단가(숫자)"/>
+                            <TextBox MinWidth="90"
+                                     Text="{Binding NewProductPriceText, UpdateSourceTrigger=PropertyChanged}"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- 버튼 -->
+                    <StackPanel Grid.Column="1"
+                                Orientation="Horizontal"
+                                HorizontalAlignment="Right"
+                                VerticalAlignment="Bottom">
+                        <Button Content="제품 추가"
+                                Width="100" Height="32"
+                                Margin="0,0,8,0"
+                                Command="{Binding AddProductCommand}"/>
+                        <Button Content="제품 삭제"
+                                Width="100" Height="32"
+                                Command="{Binding DeleteProductCommand}"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+        </Grid>
+    </GroupBox>
+</UserControl>

@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\transactionlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\transactionlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\transactionlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\transactionlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\summaryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\summaryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\summaryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\summaryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\stockpanelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\stockpanelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\stockpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\stockpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\productlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\productlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\productlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\productlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\models\\stocktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:models\\stocktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|c:\\users\\munho\\study_c#\\study_wpf\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F9A93C-AAB5-4D80-8C12-FFF5F3CEE99C}|WpfApp1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\munho\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SummaryView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\SummaryView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SummaryView.xaml.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\SummaryView.xaml.cs",
+              "RelativeToolTip": "Views\\SummaryView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T04:08:12.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionListView.xaml",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\TransactionListView.xaml",
+              "RelativeDocumentMoniker": "Views\\TransactionListView.xaml",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\TransactionListView.xaml",
+              "RelativeToolTip": "Views\\TransactionListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T04:01:36.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\TransactionListView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TransactionListView.xaml.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\TransactionListView.xaml.cs",
+              "RelativeToolTip": "Views\\TransactionListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T04:09:31.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T01:26:28.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SummaryView.xaml",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\SummaryView.xaml",
+              "RelativeDocumentMoniker": "Views\\SummaryView.xaml",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\SummaryView.xaml",
+              "RelativeToolTip": "Views\\SummaryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T04:02:08.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockPanelView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\StockPanelView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StockPanelView.xaml.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\StockPanelView.xaml.cs",
+              "RelativeToolTip": "Views\\StockPanelView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T04:08:05.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockPanelView.xaml",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\StockPanelView.xaml",
+              "RelativeDocumentMoniker": "Views\\StockPanelView.xaml",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\StockPanelView.xaml",
+              "RelativeToolTip": "Views\\StockPanelView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T04:01:14.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\ProductListView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductListView.xaml.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\ProductListView.xaml.cs",
+              "RelativeToolTip": "Views\\ProductListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T04:07:59.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductListView.xaml",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\ProductListView.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductListView.xaml",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\ProductListView.xaml",
+              "RelativeToolTip": "Views\\ProductListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T04:00:34.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T04:07:53.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Services\\InventoryService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T01:28:35.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T01:31:23.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T01:28:01.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Models\\StockTransaction.cs",
+              "RelativeDocumentMoniker": "Models\\StockTransaction.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\Models\\StockTransaction.cs",
+              "RelativeToolTip": "Models\\StockTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T01:28:12.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T01:28:25.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\STUDY_WPF\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T01:24:09.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\munho\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T01:24:00.275Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -31,17 +31,19 @@
         <!-- 본문 -->
         <Grid Grid.Row="1">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="3*"/>
-                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="237*"/>
+                <ColumnDefinition Width="216*"/>
+                <ColumnDefinition Width="192*"/>
+                <ColumnDefinition Width="430*"/>
             </Grid.ColumnDefinitions>
 
             <!-- 왼쪽 -->
-            <views:ProductListView Grid.Column="0" Margin="0,0,10,0"/>
-          
-         
+            <views:ProductListView Grid.Column="0" Margin="0,0,10,0" Grid.ColumnSpan="3"/>
+
+
 
             <!-- 오른쪽 -->
-            <Grid Grid.Column="1">
+            <Grid Grid.Column="3">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="Auto"/>
                     <RowDefinition Height="*"/>

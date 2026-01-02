@@ -30,3 +30,4 @@ C:\Users\munho\STUDY_C#\STUDY_WPF\WpfApp1\obj\Debug\net8.0-windows\Views\Product
 C:\Users\munho\STUDY_C#\STUDY_WPF\WpfApp1\obj\Debug\net8.0-windows\Views\StockPanelView.g.cs
 C:\Users\munho\STUDY_C#\STUDY_WPF\WpfApp1\obj\Debug\net8.0-windows\Views\SummaryView.g.cs
 C:\Users\munho\STUDY_C#\STUDY_WPF\WpfApp1\obj\Debug\net8.0-windows\Views\TransactionListView.g.cs
+C:\Users\munho\STUDY_C#\STUDY_WPF\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json

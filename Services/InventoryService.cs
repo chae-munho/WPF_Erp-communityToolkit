@@ -4,6 +4,10 @@ using WpfApp1.Models;
 
 namespace WpfApp1.Services
 {
+    /*
+        ObservableCollection<T>는 WPF MVVM에서 리스트가 바뀌면 (추가 삭제 이동 초기화) UI가 자동으로 갱신되게 해주는 컬렉션
+        List<T>처럼 보이지만 UI에 변경됐다는 신호를 보내는 기능이 핵심이다.
+     */
     public class InventoryService
     {
         public ObservableCollection<Product> Products { get; } = new();
